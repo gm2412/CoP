@@ -4,7 +4,7 @@ The Ansible Automation Platform 2.1 reference architecture provides an opinionat
 
 A pictorial representation of the environment used in this reference environment is shown in Figure 1.1, “Reference Architecture Overview”.
 
-![reference](/AAP/images/reference.jpg)
+![reference](/CoP/images/reference.jpg)
 
 The image above consists of two sites, Ansible Site 1 and Ansible Site 2 for high availability. Site one is an active environment while site two is a passive environment. Each site consists of:
 
